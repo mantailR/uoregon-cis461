@@ -16,7 +16,7 @@ instead of using make image, just type make in command line.
 
 then test the scanner as in docker container.
 
-#some points to improve
+# some points to improve
 currently double quoted string is implemented by regular expressions, may change
 to patterns and states later, which is more clear and easy to understand.
 
