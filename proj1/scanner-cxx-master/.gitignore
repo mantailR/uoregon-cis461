@@ -1,0 +1,2 @@
+# ignore all lex.yy files
+lex.yy.*
